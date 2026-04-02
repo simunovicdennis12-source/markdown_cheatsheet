@@ -12,7 +12,7 @@
 * <sub>tiefgestellt</sub>
 * <sub>hofgestellt</sup>
 * `Code`
-* :heart:
+* :trollface::trollface::rage1: :rage1::rage1::eyes:
 
 ### Sortierte Liste 
 
@@ -25,3 +25,18 @@
 - [X] Java
 - [ ] ABAP
 - [X] Python
+
+## Tabellen 
+
+| Name | Alter | Geschlecht |
+|-----:|:------|:----------:|
+|Peter | 42    |m           |
+| Hans | 33    |m           |
+|Lisa  |18     |w           |
+
+## Links und Grafiken
+
+- [Tabellengenarator](https://www.tablesgenerator.com/)
+- [Emoji-code](https://gist.github.com/rxaviers/7360908)
+- [Formatierung]()
+
